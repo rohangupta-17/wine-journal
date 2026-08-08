@@ -1,2 +1,5 @@
-# wine-journal
-Wine Journal is a personal cellar and tasting companion.
+# Wine Journal — Support
+
+Wine Journal is a personal wine cellar and tasting journal app.
+
+**Need help or have feedback?** Contact rohagupta@deloitte.com
